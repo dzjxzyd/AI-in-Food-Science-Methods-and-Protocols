@@ -1,4 +1,4 @@
-
+This is an official repository for the protocol paper Predicting peptide bioactivity using the unified model architecture UniDL4BioPep in book AI in Food Science Methods and Protocols
 
 OS: Linux-5.14.0-570.22.1.el9_6.x86_64-x86_64-with-glibc2.34
 Python: 3.11.11
