@@ -6,7 +6,6 @@ in *AI in Food Science: Methods and Protocols*.
 
 The repository provides implementations for:  
 - Pretraining the **PepBERT** peptide language model.  
-- Constructing dataset pipelines for peptide sequence tokenization and masked language modeling (MLM).  
 - Downstream applications, including **quorum-sensing peptide prediction** using extracted embeddings.  
 
 ---
